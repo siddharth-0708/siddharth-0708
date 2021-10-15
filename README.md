@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### Application and Data:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-E34F26?style=flat&logo=ReactJS&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-CB3837?style=flat&logo=Angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
