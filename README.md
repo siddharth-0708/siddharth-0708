@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 #### Languages:
 
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-EDD222?style=flat&logo=java&logoColor=white)
+![C Language](https://img.shields.io/badge/-C-239120?style=flat&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
