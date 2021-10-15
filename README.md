@@ -28,3 +28,11 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/siddharthashutosh
 [twitter]: https://twitter.com/siddharth7_says
 [gmail]: siddharth0708.ashutosh@gmail.com
+
+### My Stack
+
+#### Languages:
+
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
