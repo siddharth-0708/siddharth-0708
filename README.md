@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey I am Siddharth Ashutosh 👋
+### I work as a front-end developer with vosta technologies PVT LTD (NetGaming). I am based in Hyderabad, India.
 <!--
 **siddharth-0708/siddharth-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Hi I am siddharth </h1>
