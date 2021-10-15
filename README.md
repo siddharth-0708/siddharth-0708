@@ -1,5 +1,5 @@
 ### Hey I am Siddharth Ashutosh 👋
-## I work as a front-end developer with vosta technologies PVT LTD (NetGaming). I am based in Hyderabad, India.
+#### I work as a front-end developer with vosta technologies PVT LTD (NetGaming). I am based in Hyderabad, India.
 <!--
 **siddharth-0708/siddharth-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
