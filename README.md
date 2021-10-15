@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-1572B6?style=flat&logo=Materialui)
+![Ajax](http://img.shields.io/badge/-Ajax-6EBF20?style=flat&logo=ajax.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-563D7C?style=flat&logo=MySQL&logoColor=white)
 
