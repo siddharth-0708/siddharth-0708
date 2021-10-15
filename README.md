@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![C language](https://img.shields.io/badge/-language-239120?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0175C2?style=flat&logo=C++&logoColor=white)
 
-#### Web Technologies:
+#### Application and Data:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-CB3837?style=flat&logo=Angular&logoColor=white)
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Sql](https://img.shields.io/badge/-Sql-563D7C?style=flat&logo=Sql&logoColor=white)
 
 #### UX/UI:
 
