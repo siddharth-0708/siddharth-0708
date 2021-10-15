@@ -1,5 +1,7 @@
 ### Hey I am Siddharth Ashutosh 👋
 #### I work as a front-end developer with vosta technologies PVT LTD (NetGaming). I am based in Hyderabad, India.
+#### I love to solve problems. Front-end development beckons to all my enthusiasms; it combines creativity and problem-solving
+#### I started my career as a program analyst in cognizant. My primary role here was to support the global Interface distribution system of walmart and resolve tickets raised in service now. After working for an year in service based industry, I moved to a product based organization. Since 3 years, I have been creating casino games, single page applications and static web pages/ websites for the NetGaming.
 <!--
 **siddharth-0708/siddharth-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
