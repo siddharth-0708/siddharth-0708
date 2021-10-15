@@ -11,8 +11,6 @@
 [<img align="left" alt="siddharth | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="siddharth | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-<br>
-<br>
 <!--
 **siddharth-0708/siddharth-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
