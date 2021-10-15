@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/siddharthashutosh
 [twitter]: https://twitter.com/siddharth7_says
 [gmail]: siddharth0708.ashutosh@gmail.com
+<br>
+<br>
 
 ### My Stack
 
