@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: www.linkedin.com/in/siddharthashutosh
+[linkedin]: https://linkedin.com/in/siddharthashutosh
 [twitter]: https://twitter.com/siddharth7_says
 [gmail]: siddharth0708.ashutosh@gmail.com
