@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Sql](https://img.shields.io/badge/-Sql-563D7C?style=flat&logo=Sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-563D7C?style=flat&logo=SQL&logoColor=white)
 
 #### UX/UI:
 
