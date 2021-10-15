@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 #### Languages:
 
 ![Java](https://img.shields.io/badge/-Java-EDD222?style=flat&logo=java&logoColor=white)
-![C language](https://img.shields.io/badge/-Clanguage-239120?style=flat&logo=C&logoColor=white)
+![C language](https://img.shields.io/badge/-language-239120?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0175C2?style=flat&logo=C++&logoColor=white)
