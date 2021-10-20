@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [linkedin]: https://linkedin.com/in/siddharthashutosh
-[twitter]: https://twitter.com/siddharth7_says
+[twitter]: https://twitter.com
 [gmail]: siddharth0708.ashutosh@gmail.com
 <br>
 <br>
