@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-1572B6?style=flat&logo=Materialui)
 ![Ajax](http://img.shields.io/badge/-Ajax-6EBF20?style=flat&logo=ajax.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-AngularJS-CB3837?style=flat&logo=SpringBoot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-CB3837?style=flat&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-563D7C?style=flat&logo=MySQL&logoColor=white)
 
 #### UX/UI:
