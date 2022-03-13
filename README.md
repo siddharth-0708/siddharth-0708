@@ -4,7 +4,7 @@
 #### I love to solve problems. Front-end development beckons to all my enthusiasms; it combines creativity and problem-solving
 #### I started my career as a program analyst in cognizant. My primary role here was to support the global Interface distribution system of walmart and resolve tickets raised in service now. After working for an year in service based industry, I moved to a product based organization. Since 3 years, I have created 10+ casino games, single page applications and static web pages/ websites for the NetGaming.
 #### I am always trying to learn something new and constantly improving myself. When I am not coding, I like to cook and read books 😄
-#### 🎓 I am currently pursuing Diploma in Software Development (Distance) from International Institute of Information Technology (IIIT) Bangalore. My goal is to become a full stack developer by end of 2022 😄
+#### 🎓 I am currently pursuing Diploma in Software Development (Distance) from International Institute of Information Technology (IIIT) Bangalore.😄
 
 ### Contact Details
 [<img align="left" alt="siddharth | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
