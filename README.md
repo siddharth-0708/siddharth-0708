@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: https://linkedin.com/in/siddharthashutosh
+[linkedin]: https://linkedin.com
 [twitter]: https://twitter.com
 [gmail]:
 <br>
