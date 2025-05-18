@@ -1,9 +1,3 @@
-### Hey I am Siddharth Ashutosh 👋
-
-#### I am based in India.
-#### I love to solve problems. Front-end development beckons to all my enthusiasms; it combines creativity and problem-solving
-#### I am always trying to learn something new and constantly improving myself. When I am not coding, I like to cook and read books 😄
-
 ### Contact Details
 [<img align="left" alt="siddharth | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="siddharth | Twitter" width="22px" src="./twitter.svg" />][twitter]
